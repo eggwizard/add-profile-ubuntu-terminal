@@ -1,0 +1,11 @@
+[/]
+foreground-color='rgb(213,213,213)'
+visible-name='EGGMINT'
+palette=['rgb(59,59,59)', 'rgb(252,76,114)', 'rgb(152,234,149)', 'rgb(254,214,95)', 'rgb(79,185,242)', 'rgb(252,114,255)', 'rgb(118,200,206)', 'rgb(211,211,211)', 'rgb(96,96,96)', 'rgb(253,148,172)', 'rgb(186,232,185)', 'rgb(248,250,149)', 'rgb(125,210,255)', 'rgb(253,148,255)', 'rgb(163,238,236)', 'rgb(255,255,255)']
+use-system-font=true
+use-theme-colors=false
+font='Monaco 10.5'
+use-theme-transparency=false
+allow-bold=true
+background-color='rgb(0,0,0)'
+audible-bell=false
